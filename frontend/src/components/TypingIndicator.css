@@ -27,6 +27,6 @@
   30% {
     transform: translateY(-8px);
     opacity: 1;
-    background: var(--accent);
+    background: var(--secondary);
   }
 }

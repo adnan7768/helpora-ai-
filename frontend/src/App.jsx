@@ -14,6 +14,7 @@ function App() {
   ]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const bottomRef = useRef(null);
   const inputRef = useRef(null);
 
@@ -80,11 +81,19 @@ function App() {
 
   return (
     <div className="app-wrapper">
+      {/* Overlay for mobile sidebar */}
+      {isSidebarOpen && (
+        <div className="sidebar-overlay" onClick={() => setIsSidebarOpen(false)} />
+      )}
+
       {/* Sidebar */}
-      <aside className="sidebar">
+      <aside className={`sidebar ${isSidebarOpen ? "open" : ""}`}>
         <div className="sidebar-logo">
           <span className="logo-icon">🎓</span>
-          <span className="logo-text">CollegeBot</span>
+          <div className="logo-text-block">
+            <span className="logo-text">MES AIMAT</span>
+            <span className="logo-subtext">since 2001 for MBA &amp; MCA</span>
+          </div>
         </div>
         <nav className="sidebar-nav">
           <p className="nav-label">Quick Topics</p>
@@ -102,6 +111,7 @@ function App() {
               className="nav-btn"
               onClick={() => {
                 setInput(`Tell me about ${label}`);
+                setIsSidebarOpen(false);
                 inputRef.current?.focus();
               }}
             >
@@ -119,12 +129,19 @@ function App() {
       <main className="chat-main">
         <header className="chat-header">
           <div className="header-title">
-            <span className="header-icon">🎓</span>
+            <button className="menu-btn" onClick={() => setIsSidebarOpen(true)}>
+              <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z" />
+              </svg>
+            </button>
+            <div className="header-icon-container">
+              <span className="header-avatar">CA</span>
+            </div>
             <div>
               <h1>College Assistant</h1>
               <span className="header-status">
                 <span className="status-dot" />
-                AI-Powered · RAG Enhanced
+                <span className="header-badge">AI-Powered · RAG Enhanced</span>
               </span>
             </div>
           </div>

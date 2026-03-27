@@ -2,26 +2,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
 
 :root {
-  --bg-primary: #0f0f11;
-  --bg-secondary: #1a1a1f;
-  --bg-sidebar: #141418;
-  --bg-input: #1e1e24;
-  --bg-user-bubble: #6c63ff;
-  --bg-bot-bubble: #22222b;
-  --border-color: #2a2a35;
-  --text-primary: #f0f0f5;
-  --text-secondary: #8888a0;
-  --text-muted: #55556a;
-  --accent: #6c63ff;
-  --accent-hover: #7c74ff;
-  --accent-glow: rgba(108, 99, 255, 0.25);
-  --green: #22c55e;
+  --primary: #E91E63;
+  --primary-light: #FCE4EC;
+  --secondary: #1565C0;
+  --secondary-light: #E3F2FD;
+  --bg-body: #FFFFFF;
+  --bg-sidebar: #F8F9FA;
+  --bg-chat: #FFFFFF;
+  --bg-bubble-bot: #FFFFFF;
+  --border: #E0E0E0;
+  --text-primary: #1A1A2E;
+  --text-secondary: #5F6368;
+  --text-muted: #9E9E9E;
   --radius-sm: 8px;
   --radius-md: 14px;
-  --radius-lg: 20px;
+  --radius-lg: 24px;
   --sidebar-width: 240px;
   --font: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
-  --transition: 0.2s ease;
+  --transition: 0.15s ease;
+  --green: #4CAF50;
 }
 
 *, *::before, *::after {
@@ -38,7 +37,7 @@ html, body, #root {
 
 body {
   font-family: var(--font);
-  background: var(--bg-primary);
+  background: var(--bg-body);
   color: var(--text-primary);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
@@ -50,6 +49,7 @@ body {
   height: 100vh;
   width: 100vw;
   overflow: hidden;
+  position: relative;
 }
 
 /* ─── Sidebar ────────────────────────────────────────────────────────────────── */
@@ -57,12 +57,14 @@ body {
   width: var(--sidebar-width);
   min-width: var(--sidebar-width);
   background: var(--bg-sidebar);
-  border-right: 1px solid var(--border-color);
+  border-right: 1px solid var(--border);
   display: flex;
   flex-direction: column;
   padding: 24px 12px;
   gap: 24px;
   overflow-y: auto;
+  z-index: 50;
+  transition: transform 0.3s ease;
 }
 
 .sidebar-logo {
@@ -72,6 +74,11 @@ body {
   padding: 0 8px;
 }
 
+.logo-text-block {
+  display: flex;
+  flex-direction: column;
+}
+
 .logo-icon {
   font-size: 1.6rem;
 }
@@ -79,10 +86,12 @@ body {
 .logo-text {
   font-size: 1.1rem;
   font-weight: 700;
-  background: linear-gradient(135deg, #6c63ff, #a78bfa);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: var(--text-primary);
+}
+
+.logo-subtext {
+  font-size: 11px;
+  color: var(--text-muted);
 }
 
 .sidebar-nav {
@@ -92,10 +101,11 @@ body {
 }
 
 .nav-label {
-  font-size: 0.68rem;
+  font-size: 10px;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--text-muted);
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  color: #9E9E9E;
   padding: 0 8px;
   margin-bottom: 4px;
 }
@@ -105,41 +115,48 @@ body {
   align-items: center;
   gap: 10px;
   width: 100%;
-  padding: 9px 12px;
+  padding: 10px 16px;
   border: none;
-  border-radius: var(--radius-sm);
   background: transparent;
-  color: var(--text-secondary);
+  color: var(--text-primary);
   font-size: 0.875rem;
   font-family: var(--font);
   cursor: pointer;
   text-align: left;
-  transition: background var(--transition), color var(--transition);
+  border-radius: 0 8px 8px 0;
+  border-left: 3px solid transparent;
+  transition: background var(--transition), color var(--transition), border-left-color var(--transition);
 }
 
 .nav-btn:hover {
-  background: rgba(108, 99, 255, 0.12);
-  color: var(--text-primary);
+  background: var(--primary-light);
+  border-left-color: var(--primary);
+}
+
+.nav-btn:active {
+  background: var(--primary-light);
+  border-left: 3px solid var(--primary);
+  color: var(--primary);
+  font-weight: 500;
 }
 
 .clear-btn {
   margin-top: auto;
   width: 100%;
   padding: 10px;
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  border-radius: 8px;
   background: transparent;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   font-size: 0.8rem;
   font-family: var(--font);
   cursor: pointer;
-  transition: all var(--transition);
+  transition: border-color var(--transition), color var(--transition);
 }
 
 .clear-btn:hover {
-  background: rgba(239, 68, 68, 0.1);
-  border-color: #ef4444;
-  color: #ef4444;
+  border-color: var(--primary);
+  color: var(--primary);
 }
 
 /* ─── Chat Main ──────────────────────────────────────────────────────────────── */
@@ -148,14 +165,13 @@ body {
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  background: var(--bg-primary);
+  background: var(--bg-chat);
 }
 
 .chat-header {
   padding: 16px 24px;
-  border-bottom: 1px solid var(--border-color);
-  background: rgba(15, 15, 17, 0.85);
-  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  background: #FFFFFF;
   position: sticky;
   top: 0;
   z-index: 10;
@@ -167,12 +183,30 @@ body {
   gap: 12px;
 }
 
-.header-icon {
-  font-size: 1.8rem;
+.menu-btn {
+  display: none;
+  background: none;
+  border: none;
+  color: var(--primary);
+  cursor: pointer;
+}
+
+.header-avatar {
+  background: var(--secondary);
+  color: white;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
 }
 
 .chat-header h1 {
-  font-size: 1.1rem;
+  font-size: 16px;
   font-weight: 600;
   color: var(--text-primary);
 }
@@ -182,7 +216,14 @@ body {
   align-items: center;
   gap: 6px;
   font-size: 0.75rem;
-  color: var(--text-muted);
+}
+
+.header-badge {
+  background: var(--secondary-light);
+  color: var(--secondary);
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 20px;
 }
 
 .status-dot {
@@ -218,45 +259,43 @@ body {
 }
 
 .messages-container::-webkit-scrollbar-thumb {
-  background: var(--border-color);
+  background: var(--border);
   border-radius: 10px;
 }
 
 /* ─── Input Area ─────────────────────────────────────────────────────────────── */
 .input-area {
-  padding: 16px 24px 20px;
-  border-top: 1px solid var(--border-color);
-  background: var(--bg-primary);
+  padding: 12px 16px 16px;
+  border-top: 1px solid var(--border);
+  background: #FFFFFF;
 }
 
 .input-box {
   display: flex;
   align-items: flex-end;
   gap: 10px;
-  background: var(--bg-input);
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-lg);
-  padding: 12px 16px;
-  transition: border-color var(--transition), box-shadow var(--transition);
-}
-
-.input-box:focus-within {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 3px var(--accent-glow);
+  position: relative;
 }
 
 .input-field {
   flex: 1;
-  background: transparent;
-  border: none;
-  outline: none;
+  background: #F8F9FA;
+  border: 1.5px solid var(--border);
+  border-radius: 24px;
+  padding: 10px 48px 10px 16px;
+  font-size: 14px;
   color: var(--text-primary);
-  font-size: 0.95rem;
   font-family: var(--font);
   resize: none;
   max-height: 140px;
   overflow-y: auto;
   line-height: 1.5;
+  transition: border-color var(--transition);
+}
+
+.input-field:focus {
+  border-color: var(--primary);
+  outline: none;
 }
 
 .input-field::placeholder {
@@ -269,48 +308,49 @@ body {
 }
 
 .send-btn {
+  position: absolute;
+  right: 6px;
+  bottom: 8px;
   flex-shrink: 0;
-  width: 38px;
-  height: 38px;
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
   border: none;
-  background: var(--accent);
+  background: var(--primary);
   color: white;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
-  box-shadow: 0 2px 8px var(--accent-glow);
+  transition: background var(--transition), transform var(--transition);
 }
 
 .send-btn:hover:not(.disabled) {
-  background: var(--accent-hover);
+  background: #C2185B;
   transform: scale(1.05);
-  box-shadow: 0 4px 16px var(--accent-glow);
 }
 
 .send-btn.disabled {
-  background: var(--bg-bot-bubble);
+  background: var(--border);
   color: var(--text-muted);
   cursor: not-allowed;
-  box-shadow: none;
+  transform: none;
 }
 
 .input-hint {
-  font-size: 0.715rem;
+  font-size: 11px;
   color: var(--text-muted);
   margin-top: 8px;
   text-align: center;
 }
 
 .input-hint kbd {
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-color);
+  background: var(--bg-sidebar);
+  border: 1px solid var(--border);
   border-radius: 4px;
   padding: 1px 5px;
   font-family: var(--font);
-  font-size: 0.7rem;
+  font-size: 10px;
 }
 
 /* ─── Spinner ────────────────────────────────────────────────────────────────── */
@@ -328,10 +368,28 @@ body {
   to { transform: rotate(360deg); }
 }
 
-/* ─── Responsive ─────────────────────────────────────────────────────────────── */
-@media (max-width: 640px) {
+/* ─── Responsive (Mobile Drawer) ─────────────────────────────────────────────────────────────── */
+.sidebar-overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 40;
+}
+
+@media (max-width: 768px) {
+  .menu-btn {
+    display: block;
+  }
+  
   .sidebar {
-    display: none;
+    position: absolute;
+    top: 0; bottom: 0; left: 0;
+    transform: translateX(-100%);
+  }
+  
+  .sidebar.open {
+    transform: translateX(0);
   }
 
   .chat-header {
