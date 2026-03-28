@@ -4,7 +4,7 @@
  * @param {Array<{role: string, content: string}>} history - Previous chat history
  */
 export async function sendMessage(message, history = []) {
-  const response = await fetch("http://localhost:8000/chat", {
+  const response = await fetch("https://helpora-ai.onrender.com/chat", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ message, history }),
