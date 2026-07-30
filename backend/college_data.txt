@@ -1,50 +1,88 @@
-1. INSTITUTION OVERVIEW
+1. MES OVERVIEW
+ 
+Q. About MES
+ 
+A. The Muslim Educational Society, established in 1964 achieved a remarkable transformation in the educational status of Muslim and other backward communities. It was a socially committed and timely venture of a group of intellectuals led by Dr. P.K. Abdul Ghafoor, the Founder President of the Muslim Educational Society who dedicated his life for an educational revolution and pledged to keep the lamp of knowledge aloft to illuminate the life of a society.
+ 
+Q. Founder of MES
+ 
+A. Dr. P.K. Abdul Ghafoor
+ 
+Q. About MES Institutions
+ 
+A.  The organization operates 150 educational institutions in total.
+                   Among these are 29 colleges (counting Professional Institutions, Arts & Science Colleges,
+                   Women's Colleges together).
+ 
+• Professional Institutions: 10
+• Arts & Science Colleges: 21
+• Women's Colleges: 8
+ 
+Q. MES State Office Bearers
+ 
+A.     •  President: Dr. P. A. Fazal Ghafoor
+                       •  General Secretary: K. K. Kunjumoideen
+                       •  Treasurer: O. C. Mohamed Salavudeen
+                       •  Vice Presidents:
+▪ E. P. Moyin Kutty
+▪ T. M. Zakir Hussain
+▪ M. M. Ashraf
+▪ K. Mohamed Shafi Haji
+                          •  Secretaries:
+▪ Abdurahiman V. P.
+▪ S. M. S. Mujeeb Rahman
+▪ Dr. Abdul Rahim Fazal
+▪ V. H. Majeed
+▪  
+2. MES AIMAT INSTITUTION OVERVIEW
+Q. What is AIMAT?
+ 
+A. AIMAT stands for MES Advanced Institute of Management and Technology. It is a postgraduate professional institution located in Aluva, Kerala.
+ 
+Q.Where is AIMAT located?
+ 
+A. AIMAT is located at Marampally P.O., Aluva – 683105, Ernakulam District, Kerala, India.
+ 
+Q. When was AIMAT established?
+     A. AIMAT was established in 2001 under the management of the Muslim Educational Society (MES).
+Q. Which university is AIMAT affiliated with?
+ 
+A.   AIMAT is affiliated with Mahatma Gandhi University, Kerala.
+Q. Is AIMAT approved by AICTE?
+   
+   A.  Yes, AIMAT is approved by the All India Council for Technical Education (AICTE).
 
-Q: What is AIMAT?
-A: AIMAT stands for MES Advanced Institute of Management and Technology. It is a postgraduate professional institution located in Aluva, Kerala.
+Q. What is the vision of AIMAT?
 
-Q: Where is AIMAT located?
-A: AIMAT is located at Marampally P.O., Aluva – 683105, Ernakulam District, Kerala, India.
+ A. AIMAT aims to provide quality professional education with strong ethical values, leadership skills
+    and industry-oriented knowledge.
+Q.  What is the mission of AIMAT?
 
-Q: When was AIMAT established?
-A: AIMAT was established in 2001 under the management of the Muslim Educational Society (MES).
-
-Q: Which university is AIMAT affiliated with?
-A: AIMAT is affiliated with Mahatma Gandhi University, Kerala.
-
-Q: Is AIMAT approved by AICTE?
-A: Yes, AIMAT is approved by the All India Council for Technical Education (AICTE).
-
-Q: What is the vision of AIMAT?
-A: AIMAT aims to provide quality professional education with strong ethical values, leadership skills, and industry-oriented knowledge.
-
-Q: What is the mission of AIMAT?
-A: The mission is to develop competent professionals through academic excellence, research orientation, innovation, and personality development.
-
-⸻
-
-2. ACADEMIC PROGRAMMES
-
-Q: What courses are offered at AIMAT?
-A: AIMAT offers the following postgraduate programmes:
-• Master of Computer Applications (MCA)
+A.   The mission is to develop competent professionals through academic excellence, research
+       orientation, innovation, and personality development.
+ 
+3. ACADEMIC PROGRAMMES
+ 
+Q. Courses are offered at AIMAT?
+ 
+    A . AIMAT offers the following postgraduate programmes:
+         
 • Master of Business Administration (MBA)
-
-Q: What is the duration of MCA?
-A: MCA is a 2-year full-time postgraduate programme under the credit semester system.
-
-Q: What is the duration of MBA?
-A: MBA is a 2-year full-time postgraduate programme.
-
-Q: What is the intake capacity of MCA?
-A: The approved intake for MCA is 60 students per batch.
-
-Q: What is the intake capacity of MBA?
-A: MBA intake is as per University and AICTE approval.
-
-⸻
-
-3. ELIGIBILITY & ADMISSION
+• Master of Computer Applications (MCA)
+         
+   Q.  What is the duration of MCA?
+         
+      A.  MCA is a 2-year full time postgraduate programme
+ 
+   Q.  What is the duration of MBA?
+           
+      A. MBA is a 2-year full time postgraduate programme
+ 
+  Q.  What is the intake of MBA and MCA ?
+ 
+ A. 90 seats for both MBA and MCA
+ 
+4. ELIGIBILITY & ADMISSION
 
 Q: What is the eligibility for MCA?
 A: Candidates must have a Bachelor’s Degree with Mathematics at 10+2 or graduation level, as per University norms.
@@ -54,32 +92,32 @@ A: Candidates must have a Bachelor’s Degree in any discipline with the require
 
 Q: Which entrance exams are accepted for MBA?
 A: MBA admissions are based on valid scores from KMAT, CMAT, MAT, or as per University norms.
+ 
+Q. Which entrance exams are accepted for MCA ?
+A. MCA admissions are based on Entrance exam conducted by LBS
 
 Q: How can I apply for admission?
 A: Students must apply through official admission procedures notified by the institution and the University.
 
 Q: Is admission merit-based?
 A: Yes, admission follows entrance examination scores and University guidelines.
-
-⸻
-
-4. FEE STRUCTURE
+ 
+ 
+5.MBA and MCA FEE STRUCTURE
 
 Q: What is the MCA semester fee?
-A: The approximate MCA fee is ₹50,000 per semester.
+A: The approximate MCA fee is ₹30,000 per semester.
 
 Q: What is the MBA semester fee?
-A: The approximate MBA fee is ₹60,000 per semester.
+A: The approximate MBA fee is ₹50,000 per semester.
 
 Q: Are University exam fees included?
 A: No, University examination fees are paid separately as per Mahatma Gandhi University regulations.
 
 Q: Can the fees change?
 A: Yes, fees are subject to change based on institutional and regulatory guidelines.
-
-⸻
-
-5. MCA DEPARTMENT FACULTY
+ 
+6. MCA DEPARTMENT FACULTY MEMBERS
 
 Q: Who is the HOD of MCA?
 A: Dr. Kavitha C R is the Head of the MCA Department and Associate Professor.
@@ -88,26 +126,42 @@ Q: Who are the Associate Professors in MCA?
 A:
 • Dr. Kavitha C R
 • Dr. Thomas Joseph
-• Dr. Shini George
+
 
 Q: Who are the Assistant Professors in MCA?
 A:
 • Ms. Sharija Azeez
-• Ms. Neetha Daly
 • Mr. Akbersha K E
 • Ms. Jaseena C Y
 • Ms. Arya P Pillai
 • Ms. Shahila Shahul
-• Mr. Mirasil V S
-• Ms. Jemsheena M A
-• Ms. Lakshmi Ramakrishnan
 
 Q: Can I get faculty personal contact numbers?
 A: For official communication, please contact the college office or refer to the official website.
-
-⸻
-
-6. FACILITIES & INFRASTRUCTURE
+ 
+7. MBA DEPARTMENT FACULTY MEMBERS
+ 
+Q.Who is the Director of MES AIMAT ?
+A. Dr.Jubel Mathew
+Q. Who are the  Professors in MBA ?
+     A. Director &Professor - Dr.Jubel Mathew
+Q. Who is  the  HoD of MBA ?
+      A. Associate Professor & HoD - Dr.Jeseena Abdeen
+Q. Who are the Associate Professors in MBA ?
+     A. Associate Professor & HoD - Dr.Jeseena Abdeen
+Q. Who are the Assistant Professors in MBA ?
+     A. Dr.Subitha N
+         Ms.Suma D
+        Dr.Vipin Kumar M
+         Muhammed Riyaz
+ 
+8. COLLEGE TIMING
+ 
+Q.College timing ?         
+A.      8.30 am to 2.00 pm( on Monday,Tuesday, Wednesday,Thursday)
+          8.30 am to 2.45 pm (on Friday)
+ 
+9. FACILITIES & INFRASTRUCTURE
 
 Q: Does AIMAT provide hostel facilities?
 A: Yes, separate hostel facilities are available for boys and girls.
@@ -123,10 +177,12 @@ A: Yes, AIMAT has a dedicated Placement and Training Cell.
 
 Q: What is the average placement package?
 A: The average placement package ranges between ₹3 LPA to ₹6 LPA.
-
-⸻
-
-7. COMMON QUESTIONS (User-Friendly Section)
+ 
+Q: Does AIMAT have Library ?
+ 
+A: The MES AIMAT Library is an outstanding knowledge resource containing quality books, periodicals, and electronic databases on key functional areas of management and technology. It has more than 16,195 volumes of textbooks, over 22 journals/magazines, and access to DELNET and the National Digital Library. The library is open on working days from 8:30 a.m. to 3:30 p.m.
+ 
+10. COMMON QUESTIONS (User-Friendly Section)
 
 Q: Hi / Hello
 A: Hello! Welcome to AIMAT AI Assistant. How can I help you today?
@@ -142,10 +198,32 @@ A: No, I am an AI chatbot developed to assist students and visitors with AIMAT-r
 
 Q: What can you help me with?
 A: I can provide information about courses, admissions, faculty, fees, facilities, and general college details.
-
-⸻
-
-8. PROJECT DEVELOPER DETAILS
+ 
+11. MES FACILITIES
+ 
+Q. What facilities does MES AIMAT campus offer?
+ 
+A. MES AIMAT offers a wide range of facilities including: Auditorium, Hostel, Well-equipped classrooms, College bus, Health club, Computer labs, Refreshment zone/canteen, Library with National Digital Library access, Dedicated placement cells, E-Library, and Wi-Fi connectivity.
+ 
+Q. Does MES AIMAT have a placement cell?
+A.Yes, MES AIMAT has dedicated placement cells for both the MBA and MCA programmes. The placement cell provides career guidance, job opportunities, and placement support. Companies like Choice, Bajaj Life Goals, and Keerthi Nirmal have visited the campus for recruitment drives. The college has a strong placement record.
+ 
+Q.Which companies visit MES AIMAT for placement?
+ 
+A.Several companies visit MES AIMAT for placement drives, including Choice, Bajaj Life Goals, and Keerthi Nirmal (recent placement drive visits),Infosys,Cognizant,Kerala Startup Mission. The college regularly conducts placement training programmes and industry interaction sessions to prepare students for corporate recruitment.
+ 
+Q. Does MES AIMAT provide placement training?
+A.Yes, MES AIMAT conducts Placement Training Programmes for students. 
+ 
+Q. What clubs and student support services does MES AIMAT have?
+ 
+A.MES AIMAT provides comprehensive student support services including: Student clubs, Anti-ragging cell, Grievance redressal mechanisms, Red Cross unit, ISTD (Indian Society for Training & Development), IEDC & Incubation centre, SWAYAM NPTEL programmes, and SC/ST Cell.
+ 
+Q.What student events and activities happen at MES AIMAT?
+A. MES AIMAT organizes a variety of events including orientation programmes, workshops, industry interaction programmes, cultural celebrations, annual fest (Awega and Magonn), placement drives, awareness programmes, and expert sessions. 
+ 
+ 
+12. PROJECT DEVELOPER DETAILS
 
 Q: Who developed this chatbot?
 A: This chatbot was developed by Adnan as part of his Master of Computer Applications (MCA) academic project.
@@ -156,144 +234,14 @@ A: Adnan is an MCA student with a strong interest in Artificial Intelligence, Ma
 Q: What was his role in this project?
 A: He handled system design, chatbot logic development, dataset preparation, testing, and documentation.
 
-⸻
-
-9. PROJECT GUIDE DETAILS
-
 Q: Who guided this project?
 A: The project was completed under the guidance of Ms. Arya P Pillai.
+College Management Committee
 
-Q: Who is Ms. Arya P Pillai?
-A: She is an Assistant Professor with 12 years of teaching experience in Computer Applications.
-
-Q: What are her qualifications?
-A: She holds an MCA degree and is currently pursuing her PhD from Karpagam Academy of Higher Education (KAHE).
-
-Q: What are her areas of interest?
-A: DBMS, Machine Learning, and Java programming.
-
-Q: What was her role in this project?
-A: She provided academic supervision, technical direction, and continuous guidance throughout the project.
-
-⸻
-
-10. FALLBACK RESPONSE
-
-If a question is unrelated to AIMAT:
-
-“I’m sorry, I don’t have that information. Please contact the college office at 0484-2679966 for further assistance
-
-{"question": "What is MES AIMAT?", "answer": "MES AIMAT stands for M.E.S. Advanced Institute of Management and Technology. It is one of the finest private educational institutions in Kerala, located at Marampally, Aluva, Ernakulam district. It was established as part of M.E.S. College, Marampally, and became an independent institution in 2012."}
-{"question": "When was MES AIMAT established?", "answer": "MES AIMAT was established in 2001 with the inception of the MCA programme. The MBA programme was introduced in 2003. In 2012, the institute evolved into an autonomous institution, affiliated with M.G. University, Kottayam, and recognized by AICTE, New Delhi."}
-{"question": "Where is MES AIMAT located?", "answer": "MES AIMAT is located at Marampally P.O, Aluva, Pincode – 683 105, Ernakulam District, Kerala, India. The campus is nestled in a picturesque hilly terrain surrounded by lush greenery, close to the river Periyar, the city of Kochi, and the Cochin International Airport, Nedumbassery."}
-{"question": "What is the full address of MES AIMAT?", "answer": "The full address is: M.E.S. Advanced Institute of Management and Technology (MES AIMAT), Marampally P.O, Aluva, Pincode – 683 105, Ernakulam (Dist), Kerala, India."}
-{"question": "How can I contact MES AIMAT?", "answer": "You can contact MES AIMAT through the following: Phone: +91 484 2679966 / +91 484 2679967. Email: info@mesaimat.ac.in. Website: www.mesaimat.ac.in."}
-{"question": "What is MES?", "answer": "MES stands for Muslim Education Society. It is a corporate educational agency that has been managing a large number of premier institutions in India and abroad since its inception in 1964. MES has established more than 200 institutions of repute, including Medical, Engineering, Management, Arts and Science colleges, Schools under CBSE, ICSE and State syllabus, Training institutes, and other institutions for learning, training, and social services."}
-{"question": "Which university is MES AIMAT affiliated to?", "answer": "MES AIMAT is affiliated to Mahatma Gandhi University (M.G. University), Kottayam, Kerala."}
-{"question": "Is MES AIMAT approved by AICTE?", "answer": "Yes, MES AIMAT is approved and recognized by the All India Council for Technical Education (AICTE), New Delhi."}
-{"question": "What programmes does MES AIMAT offer?", "answer": "MES AIMAT offers two programmes: 1) MBA – Master of Business Administration (Two-Year Full-Time programme with all specializations) and 2) MCA – Master of Computer Applications (Two-Year Full-Time programme). Both are offered under the credit semester system of Mahatma Gandhi University."}
-{"question": "What is the MBA programme at MES AIMAT?", "answer": "The MBA (Master of Business Administration) at MES AIMAT is a Two-Year Full-Time postgraduate programme offered under the credit semester system of M.G. University. The programme focuses on developing business acumen, leadership skills, and analytical abilities. It is available with all major specializations."}
-{"question": "What are the MBA specializations available at MES AIMAT?", "answer": "MES AIMAT offers the MBA programme with all specializations as per the M.G. University curriculum. These include specializations in Finance, Marketing, Human Resources Management, and other areas under the management domain. Students are trained with personal, interpersonal, and societal skills essential for professional and global citizenship."}
-{"question": "What is the MCA programme at MES AIMAT?", "answer": "The MCA (Master of Computer Applications) at MES AIMAT is a Two-Year Full-Time Postgraduate programme offered under the credit semester system. The revised curriculum came into effect from the Academic Year 2020-21 onwards. The programme aims to impart innovation-oriented education and provide a globally recognized academic environment through industry-academia collaborations, digital learning, and state-of-the-art skill development."}
-{"question": "What is the duration of the MBA programme?", "answer": "The MBA programme at MES AIMAT is a Two-Year Full-Time programme."}
-{"question": "What is the duration of the MCA programme?", "answer": "The MCA programme at MES AIMAT is a Two-Year Full-Time programme."}
-{"question": "What is the eligibility for MBA admission at MES AIMAT?", "answer": "Candidates must pass any graduation degree (e.g., B.E/B.Tech./B.Sc/B.Com./B.A./B.Voc. etc.), preferably with Mathematics at 10+2 level or at graduation level, from a recognized university. Candidates with degrees from Mahatma Gandhi University or other recognized equivalent degree programmes are also eligible."}
-{"question": "What is the eligibility for MCA admission at MES AIMAT?", "answer": "Candidates should pass B.C.A / B.Sc. (Computer Science) / B.Sc. (IT) / B.E (CSE) / B.Tech. (CSE) / B.E (IT) / B.Tech (IT) or an equivalent degree from a recognized university. Degrees recognized as equivalent by Mahatma Gandhi University are also accepted."}
-{"question": "How is admission to MCA done at MES AIMAT?", "answer": "Admission to the MCA programme is based on merit determined by an Entrance Examination and Personal Interview conducted at the institution level. LBS (Lal Bahadur Shastri Centre for Science & Technology) also shortlists candidates based on the Kerala MCA Entrance Exam for Group Discussion and Interviews."}
-{"question": "How do I apply for admission to MES AIMAT?", "answer": "Applicants can: 1) Obtain the application form and prospectus from M.E.S. AIMAT, Marampally by paying Rs. 500/- in cash. 2) Get the form by post by sending a DD of Rs. 550/- drawn in favour of Director, M.E.S. AIMAT, payable at Aluva/Ernakulam. 3) Download the application from www.mesaimat.ac.in and apply with required documents."}
-{"question": "What documents are required for MCA admission at MES AIMAT?", "answer": "Attested copies of the following documents are required: All academic mark lists and certificates, Transfer Certificate, Migration Certificate (for students other than M.G. University), Eligibility Certificate from M.G. University (for students from other universities), and other relevant documents as specified in the prospectus."}
-{"question": "What entrance exams are accepted for MBA admission at MES AIMAT?", "answer": "MBA aspirants can apply through KMAT (Kerala Management Aptitude Test) and CMAT (Common Management Admission Test). CMAT 2026 has been announced. Please check the official website www.mesaimat.ac.in for the latest entrance exam updates."}
-{"question": "What is the class timing at MES AIMAT?", "answer": "Class timings at MES AIMAT are from 9:30 a.m. to 4:00 p.m. Attendance is marked by the teacher at the beginning of every class."}
-{"question": "What is the library at MES AIMAT like?", "answer": "The MES AIMAT Library is an outstanding knowledge resource containing quality books, periodicals, and electronic databases on key functional areas of management and technology. It has more than 16,195 volumes of textbooks, over 22 journals/magazines, and access to DELNET and the National Digital Library. The library is open on working days from 9:30 a.m. to 4:30 p.m."}
-{"question": "What are the library rules at MES AIMAT?", "answer": "Key library rules: 1) All staff and students are members and may borrow books. 2) Library is open from 9:30 a.m. to 4:30 p.m. on working days. 3) Students must scan the E-gate register on entering. 4) Strict silence must be maintained in the reading room. 5) Mobile phones are strictly prohibited inside the library."}
-{"question": "Does MES AIMAT have a hostel?", "answer": "Yes, MES AIMAT provides hostel facilities for students. The hostel is considered to be of good quality with fees lower than PG services outside the campus. There are also many PG rooms available near the college."}
-{"question": "What facilities does MES AIMAT campus offer?", "answer": "MES AIMAT offers a wide range of facilities including: Auditorium, Hostel, Well-equipped classrooms, College bus, Health club, Computer labs, Refreshment zone/canteen, Library with National Digital Library access, Dedicated placement cells, E-Library, and Wi-Fi connectivity."}
-{"question": "Does MES AIMAT have a placement cell?", "answer": "Yes, MES AIMAT has dedicated placement cells for both the MBA and MCA programmes. The placement cell provides career guidance, job opportunities, and placement support. Companies like Choice, Bajaj Life Goals, and Keerthi Nirmal have visited the campus for recruitment drives. The college has a strong placement record."}
-{"question": "Which companies visit MES AIMAT for placement?", "answer": "Several companies visit MES AIMAT for placement drives, including Choice, Bajaj Life Goals, and Keerthi Nirmal (recent placement drive visits). The college regularly conducts placement training programmes and industry interaction sessions to prepare students for corporate recruitment."}
-{"question": "Does MES AIMAT provide placement training?", "answer": "Yes, MES AIMAT conducts Placement Training Programmes for students. For example, a placement training programme for the MCA Batch 2023-2025 was conducted by Ashik K R, Placement Head. The college also organizes 2-day placement training programmes in association with ASAP (Additional Skill Acquisition Programme)."}
-{"question": "What clubs and student support services does MES AIMAT have?", "answer": "MES AIMAT provides comprehensive student support services including: Student clubs, Anti-ragging cell, Grievance redressal mechanisms, Red Cross unit, ISTD (Indian Society for Training & Development), IEDC & Incubation centre, SWAYAM NPTEL programmes, and SC/ST Cell."}
-{"question": "What student events and activities happen at MES AIMAT?", "answer": "MES AIMAT organizes a variety of events including orientation programmes, workshops, industry interaction programmes, cultural celebrations, annual fest (Awega), placement drives, awareness programmes (e.g., Anti-Drug Awareness Programme), and expert sessions. The college also conducts graduation ceremonies and has an active events gallery."}
-{"question": "What is Awega at MES AIMAT?", "answer": "Awega is the annual fest of MES AIMAT. It is a celebration of Creativity, Technology, and Innovation. The E-Brochure for Awega 2K24 was released, showcasing the exciting activities and events organized during the fest."}
-{"question": "Does MES AIMAT have an incubation centre?", "answer": "Yes, MES AIMAT has an IEDC (Innovation and Entrepreneurship Development Cell) and an Incubation Centre that supports student entrepreneurship and innovation initiatives."}
-{"question": "Does MES AIMAT offer SWAYAM and NPTEL courses?", "answer": "Yes, MES AIMAT encourages students to pursue SWAYAM NPTEL online courses as part of their skill development. These are nationally recognized online learning platforms offered by the Government of India."}
-{"question": "What is the campus like at MES AIMAT?", "answer": "The campus of MES AIMAT is spread in a picturesque hilly terrain enveloped by verdant foliage, offering a beautiful sight for nature lovers. It is located close to the river Periyar, the city of Kochi, and the Cochin International Airport. The campus has wonderful infrastructure with modern classrooms, labs, library, hostel, and green surroundings."}
-{"question": "Is MES AIMAT near the Kochi airport?", "answer": "Yes, MES AIMAT is located very close to the Cochin International Airport, Nedumbassery (Kochi), as well as near the city of Kochi and the river Periyar, making it easily accessible."}
-{"question": "What is the MES AIMAT crest/emblem?", "answer": "The MES crest has the MES legend inscribed on top. It includes the inscription 'Enlighten Us' and features a balance symbol, representing the balance of knowledge and virtue. The emblem reflects the values and mission of the Muslim Education Society."}
-{"question": "What are the faculty details for the MCA department?", "answer": "Known faculty members in the MCA department include: Mr. AKBERSHA K.E – Associate Professor & HOD (Head of Department), MCA; Ms. SHARIJA AZEEZ – Associate Professor; Ms. Arya P. Pillai – Assistant Professor; and Mr. Kunjumuhammed T.A. – Faculty member. The department is known for its supportive and quality teaching."}
-{"question": "Who are the faculty members in the MBA department?", "answer": "Known faculty members in the MBA department include Ms. Subitha N. – Assistant Professor, MBA Dept. The MBA faculty is recognized for developing students' analytical skills, leadership, and professional thinking through various programmes and events."}
-{"question": "What is the MES AIMAT handbook?", "answer": "MES AIMAT publishes an academic handbook every year (e.g., Handbook 2024-2025). It contains information such as the college profile, MES profile, management committee details, teaching faculty, non-teaching staff, MCA/MBA admission procedures, library rules, class timings, and general college regulations. Students receive it at the start of the academic year."}
-{"question": "What is the MES organization?", "answer": "MES (Muslim Education Society) is a corporate educational agency founded in 1964. It manages more than 200 premier institutions across India and abroad, including Medical, Engineering, Management, Arts and Science colleges, CBSE/ICSE/State schools, Training institutes, and social service organizations. MES AIMAT is one of the flagship management and technology institutions under this umbrella."}
-{"question": "What is the vision of MES AIMAT?", "answer": "MES AIMAT's vision is to be a beacon of excellence in private education, shaping students who not only excel academically but also make a tangible impact through distinctive educational programmes. The institution aims to equip students with knowledge, skills, and real-world experience necessary for success in their chosen field."}
-{"question": "What is the mission of MES AIMAT?", "answer": "The mission of MES AIMAT is to impart innovation-oriented education, provide a globally recognized academic environment through industry-academia collaborations, digital learning, and state-of-the-art skill development, and to foster the comprehensive development of students alongside academic excellence."}
-{"question": "What academic achievements does MES AIMAT have?", "answer": "Over the past two decades, MES AIMAT has consistently secured numerous university ranks. The college is dedicated to shaping students who excel academically and make a tangible impact. Alumni have gone on to achieve financial independence and career success in top companies."}
-{"question": "Does MES AIMAT have an alumni network?", "answer": "Yes, MES AIMAT has an active alumni network. Alumni regularly provide testimonials and feedback, and the college maintains connections through its events and placement activities. Graduates credit the college's faculty, placement team, and programmes for their professional success."}
-{"question": "What do students say about MES AIMAT?", "answer": "Students and alumni have shared very positive experiences. Many highlight the supportive faculty, strong placement support, quality education, and the confidence-building environment. Students mention that the college helped them develop analytical skills, leadership, and personality, and some even achieved financial independence during their studies."}
-{"question": "Does MES AIMAT use social media?", "answer": "Yes, MES AIMAT is active on social media platforms including Facebook, Twitter, Instagram, and YouTube. These channels provide students and prospective students with updates, event highlights, news, and information about the college."}
-{"question": "Does MES AIMAT have a health facility?", "answer": "Yes, MES AIMAT has a health club on campus. The institute prioritizes student health and wellbeing, providing tailored support to ensure students can thrive both academically and personally."}
-{"question": "Does MES AIMAT have computer labs?", "answer": "Yes, MES AIMAT has well-equipped computer labs that support the MCA and MBA programmes. The labs are part of the college's state-of-the-art skill development infrastructure, supporting digital learning and technical education."}
-{"question": "Is there a canteen or refreshment zone at MES AIMAT?", "answer": "Yes, MES AIMAT has a refreshment zone/canteen on campus where students can get food and beverages during breaks."}
-{"question": "Does MES AIMAT have an auditorium?", "answer": "Yes, MES AIMAT has an auditorium on campus. It is used for events, seminars, lectures, cultural programmes, and placement drives."}
-{"question": "Does MES AIMAT provide a college bus service?", "answer": "Yes, MES AIMAT provides a college bus facility for students, making transportation convenient for those commuting from nearby areas."}
-{"question": "What is the pincode of MES AIMAT?", "answer": "The pincode of MES AIMAT, Marampally, Aluva, Kerala is 683 105."}
-{"question": "What is the email address of MES AIMAT?", "answer": "The official email address of MES AIMAT is info@mesaimat.ac.in."}
-{"question": "What is the phone number of MES AIMAT?", "answer": "The phone numbers of MES AIMAT are +91 484 2679966 and +91 484 2679967."}
-{"question": "What is the website of MES AIMAT?", "answer": "The official website of MES AIMAT is www.mesaimat.ac.in."}
-{"question": "How do I get the application form for MES AIMAT?", "answer": "You can get the application form in three ways: 1) Visit M.E.S. AIMAT, Marampally and obtain the form by paying Rs. 500/- in cash. 2) Send a DD of Rs. 550/- drawn in favour of Director, M.E.S. AIMAT, payable at Aluva/Ernakulam. 3) Download the form from www.mesaimat.ac.in and submit it with required documents."}
-{"question": "What is the application form fee for MES AIMAT?", "answer": "The application form costs Rs. 500/- when collected in person from the campus. If requested by post, a Demand Draft (DD) of Rs. 550/- should be drawn in favour of Director, M.E.S. AIMAT, payable at Aluva or Ernakulam."}
-{"question": "Is MES AIMAT a private or government college?", "answer": "MES AIMAT is a private educational institution. It is managed by the Muslim Education Society (MES), a private educational organization. The college is affiliated to M.G. University (a government university) and approved by AICTE."}
-{"question": "What type of institution is MES AIMAT?", "answer": "MES AIMAT is a private postgraduate management and technology institution. It offers MBA and MCA programmes and is affiliated to Mahatma Gandhi University, Kottayam, and approved by AICTE, New Delhi."}
-{"question": "What is the MCA Batch 2023-2025 graduation?", "answer": "The Graduation Ceremony of the MCA Batch 2023-2025 was held on July 2nd, 2025. This event marked a significant milestone for students who completed their two-year MCA programme."}
-{"question": "What notable events have happened at MES AIMAT recently?", "answer": "Recent notable events include: Graduation Ceremony of MCA Batch 2023-2025 (July 2, 2025), Anti-Drug Awareness Programme by Civil Excise Officer Mr. Salahudheen C.K., a session on 'AI: Opportunities and Challenges' by Mr. S.R. Nair (Entrepreneur, Author, and Mentor), placement drives by companies like Choice, Bajaj Life Goals, and Keerthi Nirmal, and the ASAP 2-day Placement Training Programme for MCA students."}
-{"question": "Who conducted the anti-drug awareness programme at MES AIMAT?", "answer": "The Anti-Drug Awareness Programme at MES AIMAT was conducted by Mr. Salahudheen C.K., a Civil Excise Officer."}
-{"question": "What session on AI was held at MES AIMAT?", "answer": "A session titled 'AI: Opportunities and Challenges' was conducted at MES AIMAT by Mr. S.R. Nair, an Entrepreneur, Author, and Mentor. It provided students with insights into the growing field of Artificial Intelligence."}
-{"question": "What is ASAP at MES AIMAT?", "answer": "ASAP stands for Additional Skill Acquisition Programme. MES AIMAT's Department of Computer Applications organized a 2-day Placement Training Programme in association with ASAP to help students prepare for career opportunities and placement drives."}
-{"question": "Who is the Placement Head of MCA at MES AIMAT?", "answer": "The Placement Head (Signature) for the MCA department at MES AIMAT is Ashik K R, who conducted the Placement Training Programme for the MCA Batch 2023-2025."}
-{"question": "What is the grievance redressal mechanism at MES AIMAT?", "answer": "MES AIMAT has a formal grievance redressal system. The Director is empowered to present matters before the College Staff Council, which can investigate and recommend further action from the head of the institution. Students can raise issues through the appropriate channels."}
-{"question": "Does MES AIMAT have an anti-ragging cell?", "answer": "Yes, MES AIMAT has an Anti-Ragging Cell to ensure a safe and inclusive campus environment for all students. Any form of ragging is strictly prohibited and will be dealt with as per UGC/AICTE guidelines."}
-{"question": "What is the SC/ST Cell at MES AIMAT?", "answer": "MES AIMAT has a dedicated SC/ST Cell to support students from Scheduled Castes and Scheduled Tribes. This cell helps ensure equal opportunities and provides guidance and support to students from these communities."}
-{"question": "Does MES AIMAT have Red Cross activities?", "answer": "Yes, MES AIMAT has a Red Cross unit that participates in social welfare activities. Students have participated in events such as Children's Day celebrations at Amrita Hospital, Edapally, reflecting the college's commitment to community engagement."}
-{"question": "Is there Wi-Fi at MES AIMAT?", "answer": "Yes, MES AIMAT provides Wi-Fi connectivity to students and staff as part of its campus infrastructure."}
-{"question": "What is the DELNET facility at MES AIMAT library?", "answer": "DELNET (Developing Library Network) is a network of libraries that allows access to shared electronic resources. MES AIMAT library provides DELNET access to students and staff, enabling them to access a vast collection of academic databases and resources beyond the college's own collection."}
-{"question": "What is the National Digital Library access at MES AIMAT?", "answer": "The National Digital Library (NDL) is a Government of India initiative providing free access to millions of digital resources including books, articles, and research papers. MES AIMAT library provides access to NDL, supplementing the college's own collection of books and journals."}
-{"question": "How many books are in the MES AIMAT library?", "answer": "The MES AIMAT Library has more than 16,195 volumes of textbooks and over 22 journals and magazines. It also provides access to DELNET and the National Digital Library for additional digital resources."}
-{"question": "What is the ISTD at MES AIMAT?", "answer": "ISTD stands for Indian Society for Training & Development. MES AIMAT has an ISTD chapter that focuses on human resource development and training activities, helping students enhance their professional skills."}
-{"question": "Does MES AIMAT have an E-Library?", "answer": "Yes, MES AIMAT provides access to E-Library resources, including electronic books, journals, and databases, to support student learning and research beyond physical library materials."}
-{"question": "What is the credit semester system at MES AIMAT?", "answer": "MES AIMAT follows the credit semester system as mandated by Mahatma Gandhi University, Kottayam. Under this system, each course is assigned a specific number of credits, and students must earn a required total to complete their degree. Exams and assessments are conducted semester-wise."}
-{"question": "What was the MCA curriculum revision at MES AIMAT?", "answer": "The revised curriculum for the MCA programme at MES AIMAT came into effect from the Academic Year 2020-21 onwards, as per the updated guidelines of Mahatma Gandhi University, Kottayam."}
-{"question": "What is the aim of the MCA programme at MES AIMAT?", "answer": "The aim of the MCA programme at MES AIMAT is to impart innovation-oriented education to students and to provide a globally recognized academic environment through industry-academia collaborations, digital learning, and state-of-the-art skill development, preparing students for careers in the IT industry."}
-{"question": "What skills does the MBA programme at MES AIMAT develop?", "answer": "The MBA programme at MES AIMAT equips students with personal, interpersonal, and societal skills essential for professional and global citizenship. It focuses on developing business acumen, leadership skills, analytical abilities, and critical thinking through various programmes, events, and industry interactions."}
-{"question": "What is MES AIMAT's stand on industry-academia collaboration?", "answer": "MES AIMAT strongly emphasizes industry-academia collaboration. Students benefit from the college's network of alumni and industry partners. Placement drives, expert sessions, and training programmes are regularly organized in partnership with industry professionals and companies."}
-{"question": "Are there any awareness programmes at MES AIMAT?", "answer": "Yes, MES AIMAT regularly organizes awareness programmes. Recent examples include an Anti-Drug Awareness Programme by a Civil Excise Officer and an AI Awareness session by an entrepreneur and mentor. The college is committed to holistic student development beyond academics."}
-{"question": "What is the overall environment like at MES AIMAT?", "answer": "MES AIMAT is known for its positive, inclusive, and supportive campus environment. The faculty is described as cheerful, supportive, and always available to resolve student doubts. The college fosters confidence, independence, and personal growth through academic and extracurricular activities."}
-{"question": "Does MES AIMAT have any national rankings?", "answer": "MES AIMAT has consistently secured numerous university ranks over the past two decades, reflecting its commitment to academic excellence. For the latest national ranking information, please check the official website www.mesaimat.ac.in."}
-{"question": "What is the affiliation process for students from other universities?", "answer": "Students from universities other than Mahatma Gandhi University are required to submit a Migration Certificate and obtain an Eligibility Certificate from M.G. University as part of the admission documentation process at MES AIMAT."}
-{"question": "Does MES AIMAT have a college management committee?", "answer": "Yes, MES AIMAT has a College Management Committee that oversees the administration and governance of the institution. Details of the committee are published in the college handbook each academic year."}
-{"question": "What is the role of the Director at MES AIMAT?", "answer": "The Director of MES AIMAT is the head of the institution and holds administrative authority. The Director can present matters before the College Staff Council and is empowered to take further action on institutional issues. Applications for admission are also addressed to the Director."}
-{"question": "What is the student life like at MES AIMAT?", "answer": "Student life at MES AIMAT is vibrant and enriching. Students participate in cultural events, placement drives, workshops, awareness programmes, sports, and social activities. The campus provides a positive energy and a strong sense of community. Alumni fondly recall MES AIMAT as their 'happy place' where faculty supported their overall growth."}
-{"question": "What payment modes are accepted for the MES AIMAT application form?", "answer": "The application form can be obtained by: paying Rs. 500/- in cash at the campus, or by sending a Demand Draft (DD) of Rs. 550/- drawn in favour of 'Director, M.E.S. AIMAT', payable at Aluva or Ernakulam. The form can also be downloaded for free from www.mesaimat.ac.in."}
-{"question": "What makes MES AIMAT unique?", "answer": "MES AIMAT stands out due to its scenic campus setting, strong academic foundation with M.G. University affiliation, AICTE approval, dedicated placement support, experienced faculty, comprehensive student support services, access to the National Digital Library and DELNET, and its long heritage as part of the MES group which has been promoting education since 1964."}
-{"question": "Is MES AIMAT suitable for working professionals?", "answer": "MES AIMAT currently offers full-time MBA and MCA programmes. For working professionals interested in part-time or distance options, it is recommended to contact the college directly at +91 484 2679966 or info@mesaimat.ac.in for the latest information."}
-{"question": "Does MES AIMAT have a grievance cell for students?", "answer": "Yes, MES AIMAT has a grievance redressal mechanism. Students can approach the Director who can present matters before the College Staff Council for proper investigation and action. The institute is committed to ensuring a fair and safe environment for all students."}
-{"question": "What is the Placement Drive at MES AIMAT?", "answer": "MES AIMAT conducts regular placement drives where companies visit the campus to recruit students. Recent placement drives include visits from companies like Choice (March 2026), Bajaj Life Goals, and Keerthi Nirmal. The college's placement cell actively coordinates these events and provides preparation support through training programmes."}
-{"question": "Does MES AIMAT provide skill development programmes?", "answer": "Yes, MES AIMAT provides top-tier skill enhancement and skill development programmes. These include placement training, ASAP-associated workshops, SWAYAM NPTEL courses, industry expert sessions, and IEDC/Incubation Centre activities, all aimed at making students industry-ready."}
-{"question": "What is the academic calendar of MES AIMAT?", "answer": "MES AIMAT follows the academic calendar as prescribed by Mahatma Gandhi University, Kottayam. The college publishes its own academic calendar each year (e.g., Academic Calendar 2024-2025). For the current academic calendar, please visit www.mesaimat.ac.in or contact the college directly."}
-{"question": "What languages are the programmes taught in at MES AIMAT?", "answer": "The MBA and MCA programmes at MES AIMAT are taught primarily in English, as per the standards of Mahatma Gandhi University and AICTE guidelines."}
-{"question": "Is MES AIMAT involved in research activities?", "answer": "Yes, besides strong teaching pedagogy, MES AIMAT is also engaged in research and innovation. The college encourages students and faculty to participate in research, and it has national and international collaborations to support these efforts."}
-{"question": "What national and international collaborations does MES AIMAT have?", "answer": "MES AIMAT has national and international collaborations that support academic excellence, research, and student development. The college benefits from industry-academia collaborations and its network of alumni and industry partners globally. For specific collaboration details, please contact the college at info@mesaimat.ac.in."}
-{"question": "Does MES AIMAT provide education loans?", "answer": "While MES AIMAT itself may not directly offer loans, students can typically avail education loans from nationalized banks for their MBA or MCA studies. It is recommended to contact the college's accounts or administration office at +91 484 2679966 for guidance on loan facilities."}
-{"question": "What is the admission season at MES AIMAT?", "answer": "Admission to MES AIMAT typically opens at the beginning of the academic year, usually around August-September. For MBA, entrance exams like KMAT and CMAT are considered. For MCA, admissions are based on the Kerala MCA Entrance Exam and institutional interviews. Check www.mesaimat.ac.in for exact dates."}
-{"question": "Does MES AIMAT accept KMAT scores?", "answer": "Yes, MES AIMAT accepts KMAT (Kerala Management Aptitude Test) scores for MBA admission. KMAT 2025 has been announced. Candidates should check the official website for KMAT 2025/2026 schedule and eligibility details."}
-{"question": "Does MES AIMAT accept CMAT scores?", "answer": "Yes, MES AIMAT accepts CMAT (Common Management Admission Test) scores for MBA admission. CMAT 2026 has been announced. MBA aspirants are encouraged to check the official notification and apply through the CMAT portal."}
-{"question": "What is the E-gate register at MES AIMAT library?", "answer": "The E-gate register is an electronic attendance/entry system at the MES AIMAT library. Students are required to scan the E-gate register when entering the library, ensuring proper tracking of library usage."}
-{"question": "What is the overall rating of MES AIMAT among students?", "answer": "MES AIMAT is highly rated among students and alumni. Reviewers consistently praise the supportive faculty, quality education, strong placement support, beautiful campus, and the college's focus on overall personality development. It is considered one of the finest management institutions in Kerala."}
-{"question": "What is the Children's Day activity done by MES AIMAT students?", "answer": "MES AIMAT students participated in a Children's Day celebration at Amrita Hospital, Edapally, as part of their social service and community engagement activities under the Red Cross unit."}
-{"question": "Is MES AIMAT good for MBA?", "answer": "Yes, MES AIMAT is considered a leading MBA college in Kerala. It offers a comprehensive Two-Year Full-Time MBA programme with all specializations, experienced faculty, strong placement support, a beautiful campus, and is affiliated to M.G. University and approved by AICTE, making it a reputable choice for management studies in Kerala."}
-{"question": "Is MES AIMAT good for MCA?", "answer": "Yes, MES AIMAT is a well-regarded MCA college in Kerala. The MCA programme is recognized by AICTE and affiliated to M.G. University. The department has experienced faculty, dedicated placement support, and has produced graduates who have secured jobs in reputable companies. Alumni speak highly of the quality of education and skill development."}
-{"question": "How is the faculty at MES AIMAT?", "answer": "The faculty at MES AIMAT is highly appreciated by students and alumni. Faculty members are described as supportive, cheerful, and dedicated to resolving doubts and helping students grow. They teach both academic subjects and provide life skills guidance, making the learning experience holistic and impactful."}
-{"question": "Does MES AIMAT have DELNET access?", "answer": "Yes, the MES AIMAT library provides access to DELNET (Developing Library Network), which is a shared library network that gives students and faculty access to a wide range of books, journals, and digital academic resources from libraries across India."}
-{"question": "What extracurricular activities are available at MES AIMAT?", "answer": "MES AIMAT offers a rich variety of extracurricular activities including cultural events, annual fests (Awega), sports, social service activities (Red Cross, hospital visits), awareness programmes, workshops, industry interaction sessions, and various student club activities. These help students build confidence and develop well-rounded personalities."}
-{"question": "What is MES AIMAT's approach to student development?", "answer": "MES AIMAT prioritizes the comprehensive development of students alongside academic excellence. The institute fosters a stimulating environment across curricular, co-curricular, and extracurricular activities, facilitating a holistic learning environment that prepares students not just academically but personally and professionally."}
-{"question": "Who is the Director of MES AIMAT?", "answer": "The Director of MES AIMAT is Mr. Jubel Mathew. He has been serving as Director since 2021. Prior to this role, he was an Associate Professor at Sree Narayana Gurukulam College of Engineering. He holds an MBA degree from Mahatma Gandhi University (MG University)."}
-{"question": "Who is Jubel Mathew?", "answer": "Jubel Mathew is the Director of MES AIMAT, Marampally, Aluva, Kochi. He has been in this role since 2021. He previously served as an Associate Professor at Sree Narayana Gurukulam College of Engineering and holds an MBA from MG University."}
-{"question": "When did Jubel Mathew become Director of MES AIMAT?", "answer": "Mr. Jubel Mathew became the Director of MES AIMAT in 2021 and has been leading the institution since then."}
-{"question": "What is the qualification of MES AIMAT Director?", "answer": "The Director of MES AIMAT, Mr. Jubel Mathew, holds an MBA degree from Mahatma Gandhi University (MG University), Kerala."}
+* Secretary - Jb. M.M. Asharaf
+* Chairman - Jb. T.M. Zakir Hussain
+* Treasurer & Chairman, Standing Committee on MES Self Financing Colleges - Dr. Abdul Rahim Fazal
+* MES State President - Dr. P.A. Fazal Ghafoor
+* MES Ernakulam District Committee President - Jb. K.M. Leiyakath Ali Khan
+* MES Ernakulam District Committee Secretary - Jb. M.I. Abdul Shereef
+* Principal, MES College Marampally - Dr. Manzur Ali P.P.
